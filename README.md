@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TheKishlay
-- 👀 I’m interested in Web Dev.
+- 👀 I’m interested in Backend.
 - 🌱 I’m currently into Web Dev.
 - 💞️ I’m looking to collaborate on web dev projects.
 - 📫 You can reach me through my email- kishlayharsh140@gmail.com
